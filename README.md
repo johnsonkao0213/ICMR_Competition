@@ -2,7 +2,7 @@ In the directory structure, we have a weight file model.pb, run_detection.py tha
 Model related code is located in model.py
 TF-lite model weight is model.tflite which can be inferences by NVIDIA TX2
 
-**Pretrained Model Weight:** ![weight link](https://drive.google.com/drive/folders/11qAoGvsGZqcshxxz8QZaB86YkmYk7xPq?usp=sharing)
+**Pretrained Model Weight:** [weight link](https://drive.google.com/drive/folders/11qAoGvsGZqcshxxz8QZaB86YkmYk7xPq?usp=sharing)
 
 Our OS is using Ubuntu 18.04
 
